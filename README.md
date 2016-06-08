@@ -14,3 +14,7 @@ This Google Chrome Extension will refresh all the open tabs.
   - Browse and select the `refreshAll` folder/repository which you have just downloaded and click ok.
   - You are all set. You should see a new icon near the address bar of the tab.
   - Just single click will refreshAll (Reload) all the tabs.
+
+## Permisssions
+
+Used some basic online resources for syntax.
