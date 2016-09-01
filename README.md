@@ -18,3 +18,4 @@ This Google Chrome Extension will refresh all the open tabs.
 ## Permisssions
 
 Used some basic online resources for syntax.
+Website desgin inspiration taken from [mrmrs](https://github.com/mrmrs/pesticide).
